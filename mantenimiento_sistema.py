@@ -2,7 +2,7 @@ import os
 import time
 import sys
 
-CARPETA_REPORTES = "./reportes_diarios"
+CARPETA_REPORTES = "./reportes-diarios-del-sistema"
 
 def limpiar_reportes_antiguos():
     print("--- INICIANDO MANTENIMIENTO AUTOMATIZADO ---")
